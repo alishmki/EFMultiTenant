@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+FxwZhXsPZCk//CEw592e9+nwS8KKLHDkUt5ibyc7HKNn4G3Wm85Iqb/5y9LWz888Rq+w60TS+9rMyzKW6S5vg==",
+  "dgSpecHash": "VePDorCd4HmwPVH/pCTgp/1S2zMusC3LkAQUSrYwaDfLow+khhweXoSgCtnP540gq4sjzwBNSNfv2ykN0kxgnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\MultiTenantSample.csproj",
+  "projectFilePath": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\EFMultiTenant.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\MultiTenantSample.csproj",
-      "projectName": "MultiTenantSample",
-      "projectPath": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\MultiTenantSample.csproj",
+      "projectUniqueName": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\EFMultiTenant.csproj",
+      "projectName": "EFMultiTenant",
+      "projectPath": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\EFMultiTenant.csproj",
       "packagesPath": "C:\\Users\\john\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\john\\source\\repos\\temp\\MultiTenantSample\\MultiTenantSample\\obj\\",
       "projectStyle": "PackageReference",
